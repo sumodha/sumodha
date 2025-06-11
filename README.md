@@ -24,6 +24,6 @@ I am an undergraduate student at **Rice University** majoring in **Computer Scie
 
 ### 🧰 Languages & Tools
 - **Languages:** Python, Java, C#, HTML, CSS, JavaScript
-- **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib
 - **Frameworks:** React, Express.js, Node.js, MongoDB, ROS2, Gazebo, Microsoft Mixed Reality Toolkit 3
+- **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib
 - **Developer Tools & Platforms:** Linux, Git, Unity, Google Colab, Anaconda, VS Code, PyCharm
