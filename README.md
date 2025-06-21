@@ -10,7 +10,7 @@ I am an undergraduate student at **Rice University** majoring in **Computer Scie
   - [GitHub Repository](https://github.com/OWL-SUITS-2025/Owl_SUITS_2025)
 - **🧑‍💻Digits**
   - **Goal**: Recreate the New York Times Digits after its discontinuation.
-  - **Tech Stack**: React, Express.js, Node.js, MongoDB, Mongoose
+  - **Tech Stack**: React, Express.js, Node.js, MongoDB
   - **Outcome**: Built a responsive full-stack application where users receive a new puzzle daily and can register to save their progress.
   - [GitHub Repository](https://github.com/sumodha/digits)
 - **🧑‍💻Thyroid Disease Data Analysis**
@@ -24,6 +24,6 @@ I am an undergraduate student at **Rice University** majoring in **Computer Scie
 
 ### 🧰 Languages & Tools
 - **Languages:** Python, Java, C#, HTML, CSS, JavaScript
-- **Frameworks:** React, Express.js, Node.js, MongoDB, ROS2, Gazebo, Microsoft Mixed Reality Toolkit 3
-- **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib
-- **Developer Tools & Platforms:** Figma, Linux, Git, Unity, Anaconda, Agile Methodology
+- **Frameworks:** React, Express.js, Node.js, MongoDB, ROS2, Gazebo, Microsoft Mixed Reality Toolkit 3, TensorFlow
+- **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Ollama, OpenCV
+- **Developer Tools & Platforms:** Linux, Unity, Figma, Git, URDF, RViz, Agile Methodology
