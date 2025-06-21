@@ -5,7 +5,7 @@ I am an undergraduate student at **Rice University** majoring in **Computer Scie
 ### :computer: Projects
 - **🧑‍💻OWL SUITS 2025**
   - **Goal**: Design a software solution for the [NASA Spacesuit User Interface Technologies for Students 2025](https://www.nasa.gov/wp-content/uploads/2024/09/fy25-suits-mission-description.pdf?emrc=29f86e?emrc=29f86e) challenge.
-  - **Tech Stack**: Microsoft Mixed Reality Toolkit 3, Unity, C##
+  - **Tech Stack**: Microsoft Mixed Reality Toolkit 3, Unity, C#
   - **Outcome**: Designed a 2D mini map and implemented real-time tracking of crew and scientific assets to reduce cognitive load by **50%**
   - [GitHub Repository](https://github.com/OWL-SUITS-2025/Owl_SUITS_2025)
 - **🧑‍💻Digits**
